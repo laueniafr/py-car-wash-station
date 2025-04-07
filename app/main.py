@@ -2,7 +2,7 @@ from typing import Any
 
 
 class Car:
-    def __init(self, comfort_class: int, clean_mark: int, brand: str) -> Any:
+    def __init__(self, comfort_class: int, clean_mark: int, brand: str) -> Any:
         self.comfort_class = comfort_class
         self.clean_mark = clean_mark
         self.brand = brand
